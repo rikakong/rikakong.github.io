@@ -65,10 +65,12 @@ li {
   .contact-form {
     padding-top: 100px;
   }
-  
-.bg{
+  .contents{
+ width:50%;
+ }
+ .bg{
     float:left;
-}
+ }
   
   .footer {
     background-color: #EDE3D5;
