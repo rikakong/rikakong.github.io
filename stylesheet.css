@@ -68,8 +68,17 @@ li {
   .contents{
  width:50%;
  }
- .bg{
+ .bg1{
     float:left;
+ }
+.vMid1{
+    float:right;
+}
+.vMid2{
+    float:left;
+}
+ .bg2{
+    float:right;
  }
   
   .footer {
