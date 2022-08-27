@@ -66,11 +66,9 @@ li {
     padding-top: 100px;
   }
   
-  /* inputとtextareaのCSSを指定してください */
-  
-  
-  /* contact-submitのCSSを指定してください */
-  
+.bg{
+    float:left;
+}
   
   .footer {
     background-color: #EDE3D5;
