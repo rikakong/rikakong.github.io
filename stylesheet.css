@@ -70,15 +70,20 @@ li {
  }
  .bg1{
     float:left;
+    width:50%;
  }
 .vMid1{
     float:right;
+    width:50%;
+
 }
 .vMid2{
     float:left;
+    width:50%;
 }
  .bg2{
     float:right;
+     width:50%;
  }
   
   .footer {
