@@ -66,24 +66,21 @@ li {
     padding-top: 100px;
   }
   .contents{
- width:50%;
+ flex-wrap: wrap
  }
  .bg1{
-    float:left;
-    width:50%;
+    width:25%;
  }
 .vMid1{
-    float:right;
-    width:50%;
+    width:25%;
 
 }
 .vMid2{
-    float:left;
-    width:50%;
+
+    width:25%;
 }
  .bg2{
-    float:right;
-     width:50%;
+     width:25%;
  }
   
   .footer {
